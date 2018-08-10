@@ -25,7 +25,7 @@ import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
 Spinner spinner;
-String URL="http://techiesatish.com/demo_api/spinner.php";
+String URL="";
 ArrayList<String> CountryName;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
